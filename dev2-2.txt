@@ -1,1 +1,5 @@
 new file 
+append to dev2-2 from main
+append from dev2 to dev2-2 file 3rd lin
+test3 line 4 in dev2
+append line 5 from main
